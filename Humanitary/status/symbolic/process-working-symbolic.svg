@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="16.000013"
+   version="1.1"
+   id="svg7384"
+   height="16">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>elementary Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">elementary Symbolic Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(-453.0002,462)"
+     style="display:inline"
+     id="layer9">
+    <rect
+       y="-462"
+       x="460.50021"
+       width="1"
+       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       ry="0.5"
+       rx="0.5"
+       id="rect3003-91"
+       height="5" />
+    <rect
+       y="453.00021"
+       x="453.5"
+       width="1"
+       transform="matrix(0,-1,1,0,0,0)"
+       style="opacity:0.578;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       ry="0.5"
+       rx="0.5"
+       id="rect3003-08-7-0"
+       height="5" />
+    <rect
+       y="446"
+       x="-461.50021"
+       width="1"
+       transform="scale(-1,-1)"
+       style="opacity:0.33500001;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       ry="0.5"
+       rx="0.5"
+       id="rect3003-08-9"
+       height="5" />
+    <rect
+       y="-469.00021"
+       x="-454.5"
+       width="1"
+       transform="matrix(0,1,-1,0,0,0)"
+       style="opacity:0.18999999;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       ry="0.5"
+       rx="0.5"
+       id="rect3003-76-2"
+       height="5" />
+    <rect
+       y="-170.67543"
+       x="625.73792"
+       width="1"
+       transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"
+       style="opacity:0.83300003;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       ry="0.5"
+       rx="0.5"
+       id="rect3003-9"
+       height="5" />
+    <rect
+       y="164.23788"
+       x="623.17566"
+       width="1"
+       transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+       style="opacity:0.694;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       ry="0.5"
+       rx="0.5"
+       id="rect3003-9-8"
+       height="5" />
+    <rect
+       y="618.23792"
+       x="162.17543"
+       width="1"
+       transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+       style="opacity:0.48200001;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       ry="0.5"
+       rx="0.5"
+       id="rect3003-08-7-0-9"
+       height="5" />
+    <rect
+       y="615.67566"
+       x="-172.73788"
+       width="1"
+       transform="matrix(-0.8660254,-0.5,0.5,-0.8660254,0,0)"
+       style="opacity:0.40200004;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       ry="0.5"
+       rx="0.5"
+       id="rect3003-08-7-0-7"
+       height="5" />
+    <rect
+       y="154.67543"
+       x="-626.73792"
+       width="1"
+       transform="matrix(-0.8660254,0.5,-0.5,-0.8660254,0,0)"
+       style="opacity:0.28000004;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       ry="0.5"
+       rx="0.5"
+       id="rect3003-08-7-0-5"
+       height="5" />
+    <rect
+       y="-180.23788"
+       x="-624.17566"
+       width="1"
+       transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+       style="opacity:0.23000004;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       ry="0.5"
+       rx="0.5"
+       id="rect3003-08-7-0-0"
+       height="5" />
+    <rect
+       y="-634.23792"
+       x="-163.17543"
+       width="1"
+       transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+       style="opacity:0.16000001;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       ry="0.5"
+       rx="0.5"
+       id="rect3003-08-7-0-8"
+       height="5" />
+    <rect
+       y="-631.67566"
+       x="171.73788"
+       width="1"
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"
+       style="opacity:0.12999998;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       ry="0.5"
+       rx="0.5"
+       id="rect3003-08-7-0-07"
+       height="5" />
+  </g>
+  <g
+     transform="translate(-453.0002,462)"
+     style="display:inline"
+     id="layer10" />
+  <g
+     transform="translate(-453.0002,462)"
+     id="layer11" />
+  <g
+     transform="translate(-453.0002,462)"
+     style="display:inline"
+     id="layer13" />
+  <g
+     transform="translate(-453.0002,462)"
+     id="layer14" />
+  <g
+     transform="translate(-453.0002,462)"
+     style="display:inline"
+     id="layer15" />
+  <g
+     transform="translate(-453.0002,462)"
+     style="display:inline"
+     id="g71291" />
+  <g
+     transform="translate(-453.0002,462)"
+     style="display:inline"
+     id="g4953" />
+  <g
+     transform="translate(-453.0002,462)"
+     style="display:inline"
+     id="layer12" />
+</svg>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="16.0002"
+   version="1.1"
+   id="svg7384"
+   height="16">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>elementary Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">elementary Symbolic Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(-433.0002,501)"
+     style="display:inline"
+     label="status"
+     id="layer9">
+    <path
+       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3883"
+       d="m 437.46895,-495 -0.46875,1 3,3 0,4 1,0 0,-4 3,-3 -0.375,-1 z m 0.90625,1 1.625,0 0,1.625 z m 2.625,0 1.625,0 -1.625,1.625 z" />
+    <path
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       id="path30801"
+       d="m 433.0002,-498 3,4 -3,4 z" />
+    <path
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       id="path30803"
+       d="m 448.0002,-498 -3,4 3,4 z" />
+  </g>
+  <g
+     transform="translate(-433.0002,501)"
+     style="display:inline"
+     id="layer10" />
+  <g
+     transform="translate(-433.0002,501)"
+     style="display:inline"
+     id="layer13" />
+  <g
+     transform="translate(-433.0002,501)"
+     id="layer14" />
+  <g
+     transform="translate(-433.0002,501)"
+     style="display:inline"
+     id="layer15" />
+  <g
+     transform="translate(-433.0002,501)"
+     style="display:inline"
+     id="g71291" />
+  <g
+     transform="translate(-433.0002,501)"
+     style="display:inline"
+     id="layer12" />
+</svg>

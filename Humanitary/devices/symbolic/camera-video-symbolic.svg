@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="16"
+   version="1.1"
+   id="svg7384"
+   height="16">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>elementary Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">elementary Symbolic Icon Theme</title>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(-413.00043,232)"
+     style="display:inline"
+     label="status"
+     id="layer9" />
+  <g
+     transform="translate(-413.00043,232)"
+     style="display:inline"
+     id="layer10">
+    <rect
+       y="-229"
+       x="414.00018"
+       width="9.9687996"
+       style="color:#bebebe;fill:#bebebe;stroke:none"
+       ry="1.0691"
+       rx="1.0691"
+       id="rect6844-4"
+       height="9" />
+    <path
+       style="color:#bebebe;fill:#bebebe;stroke:none"
+       id="path6846-0"
+       d="m 423.9692,-224.53 3.469,-3.47 h 0.64474 v 7 h -0.70614 l -3.408,-3.53 z" />
+  </g>
+  <g
+     transform="translate(-413.00043,232)"
+     style="display:inline"
+     id="layer13" />
+  <g
+     transform="translate(-413.00043,232)"
+     id="layer14" />
+  <g
+     transform="translate(-413.00043,232)"
+     style="display:inline"
+     id="layer15" />
+  <g
+     transform="translate(-413.00043,232)"
+     style="display:inline"
+     id="g71291" />
+  <g
+     transform="translate(-413.00043,232)"
+     style="display:inline"
+     id="layer12" />
+</svg>
